@@ -1,29 +1,30 @@
-<h1 align="center">Merhaba 👋 Ben Yağmur Hilal Yavuzer</h1>
+<h1 align="center">👋 Merhaba! Ben Yağmur Hilal Yavuzer</h1>
 
 <p align="center">
-  👩‍💻 Yazılım Geliştirici | ⚙️ Gömülü Sistem Meraklısı | 🧠 Öğrenmeye Aç | 💡 Proje Odaklı
+  Yazılım Geliştirici • Gömülü Sistemler • Uygulamalı Proje Geliştirici • Sürekli Öğrenen
 </p>
 
 ---
 
-### 📌 Hakkımda
+### 🌱 Hakkımda
 
-Softmed Yazılım’da yazılım geliştirici ve destek sorumlusu olarak görev aldım.  
-Hem frontend hem backend tarafında PHP, Python, JavaScript, HTML, MySQL gibi teknolojilerle kurumsal web projeleri geliştirdim.  
-FR3 raporlarından responsive sayfalara, hata takibinden test süreçlerine kadar uçtan uca sorumluluk üstlendim.  
+Merhaba, ben Yağmur!  
+Web tabanlı yazılımlar ve gömülü sistemler alanında disiplinli, proje odaklı ve kendini sürekli geliştiren bir mühendisim.  
+Backend ve frontend geliştirme süreçlerine hâkimim; aynı zamanda mikrodenetleyicilerle donanım projeleri geliştiriyor, sensör entegrasyonu ve PCB tasarımı üzerine çalışıyorum.  
 
-Aynı zamanda gömülü sistemler alanında Arduino, ESP32 ve Raspberry Pi gibi platformlarla projeler geliştirdim, PCB tasarladım ve üretim süreçlerine destek verdim.  
-Gelişmeye devam ediyorum ve öğrendiklerimi teknik içeriklere dökerek paylaşmaktan keyif alıyorum.
+Yazılım geliştirme, test, hata ayıklama, API kullanımı ve veri tabanı işlemleri gibi uçtan uca yazılım yaşam döngüsü içinde aktif rol aldım.  
+Aynı zamanda C# ve ASP.NET ile katmanlı mimaride e-ticaret uygulamaları geliştirdim.  
+Teknolojide kadınların gücüne inanıyor, öğrenmeyi ve paylaşmayı seviyorum.
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler
+### 💡 Kullandığım Teknolojiler
 
 **Backend**  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET_Core-5C2D91?style=flat&logo=dotnet)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 **Frontend**  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
@@ -31,44 +32,49 @@ Gelişmeye devam ediyorum ve öğrendiklerimi teknik içeriklere dökerek payla�
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
 
-**Database & Tools**  
+**Veri Tabanı & Test**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![SQL Server](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoft-sql-server)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
 
-**Gömülü Sistemler & Donanım**  
+**Donanım ve Gömülü Sistemler**  
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino)
 ![ESP32](https://img.shields.io/badge/-ESP32-FFDD00?style=flat&logo=espressif)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi)
+![PCB](https://img.shields.io/badge/-PCB%20Design-0f4c81?style=flat)
 
 ---
 
-### 🚀 Öne Çıkan Projeler
+### 🚀 Proje Vitrini
 
-- 💻 [Softmed İstekler Sistemi (PHP + MySQL)](https://github.com/yagmurhilalyavuzer/softmed-istekler)
-    - Müşteri taleplerini yönetmek için geliştirilmiş ticket yönetim sistemi. FR3 entegrasyonu, admin kontrol paneli, responsive tasarım içerir.
+- 🎯 **GN/NN Akıllı Ağ Projesi**  
+ESP32 tabanlı kablosuz cihazlar arası haberleşme (ESP-NOW), GN geçiş algoritması, NVS saklama ve SoftAP ile Wi-Fi provisioning.
 
-- 🧠 [BeeHive_V1 (ESP32-C3 Dual Role IoT)](https://github.com/yagmurhilalyavuzer/beehive_v1)
-    - Wi-Fi provisioning + ESP-NOW ile çalışan, GN-NN (Gateway/Node) rolleri arasında geçiş yapabilen gömülü sistem ağı.
+- 💬 **Talep Yönetim Sistemi**  
+Modern, responsive, modüler yapıda PHP + MySQL + JS kullanılarak geliştirilen talep takibi ve mesajlaşma sistemi. Dinamik filtreler, kullanıcı yetkileri ve FR3 PDF çıktı desteği ile kurumsal ihtiyaçlara çözüm odaklı.
 
-> Daha fazla proje için profilimdeki reposu klasörlerine göz atabilirsin!
+- 🛒 **E-Ticaret Web Uygulaması**  
+ASP.NET Core MVC, Identity, Entity Framework kullanılarak geliştirilen tam işlevli, kullanıcı girişli, admin panelli katmanlı mimaride e-ticaret uygulaması.  
+Kod mimarisi, test edilebilirlik ve performans dikkate alınarak yapılandırıldı.
 
 ---
 
 ### 📜 Sertifikalar & Eğitimler
 
-- 🎓 ASP.NET Core MVC – Turkcell Geleceği Yazanlar  
-- 🔍 Veri Bilimi & Makine Öğrenmesi – Turkcell Akademi  
-- 🧠 Binance TR Teknolojide Kadın Akademisi  
-- 🖥️ SoftITO Backend Yazılım Eğitimi (360 saat – C#, EF, ASP.NET, SQL)
+- ✔️ ASP.NET Core MVC – Turkcell Geleceği Yazanlar  
+- ✔️ Veri Bilimi & Makine Öğrenmesi – Turkcell Akademi  
+- ✔️ SQL & MSSQL Veritabanı Yönetimi  
+- ✔️ Binance TR Teknolojide Kadın Akademisi  
+- ✔️ Linux 101–201 Sertifikaları  
+- ✔️ 360 Saatlik Backend Geliştirici Eğitimi (.NET + EF + MVC)
 
 ---
 
 ### 📈 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yagmurhilalyavuzer&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurhilalyavuzer&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yagmurhilalyavuzer&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurhilalyavuzer&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -80,5 +86,5 @@ Gelişmeye devam ediyorum ve öğrendiklerimi teknik içeriklere dökerek payla�
 
 ---
 
-> 🧩 “Hiçbir günüm birbiriyle aynı olmayacak. Her zaman – beceremesem, kimse bilmeyecek olsa, kıymeti olmasa, fark yaratmayacak olsa bile – içimden gelen doğruyu yapacağım.”  
+> 🧠 “Hiçbir günüm birbiriyle aynı olmayacak. Her zaman – beceremesem, kimse bilmeyecek olsa, kıymeti olmasa, fark yaratmayacak olsa bile – içimden gelen doğruyu yapacağım.”
 
