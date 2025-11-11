@@ -8,13 +8,12 @@
 
 ### 🌱 Hakkımda
 
-Merhaba, ben Yağmur!  
 Web tabanlı yazılımlar ve gömülü sistemler alanında disiplinli, proje odaklı ve kendini sürekli geliştiren bir mühendisim.  
 Backend ve frontend geliştirme süreçlerine hâkimim; aynı zamanda mikrodenetleyicilerle donanım projeleri geliştiriyor, sensör entegrasyonu ve PCB tasarımı üzerine çalışıyorum.  
 
 Yazılım geliştirme, test, hata ayıklama, API kullanımı ve veri tabanı işlemleri gibi uçtan uca yazılım yaşam döngüsü içinde aktif rol aldım.  
-Aynı zamanda C# ve ASP.NET ile katmanlı mimaride e-ticaret uygulamaları geliştirdim.  
-Teknolojide kadınların gücüne inanıyor, öğrenmeyi ve paylaşmayı seviyorum.
+C# ve ASP.NET ile katmanlı mimaride e-ticaret uygulamaları geliştirdim.  
+Öğrenmeyi, paylaşmayı ve çözüm üretmeyi seven bir geliştiriciyim.
 
 ---
 
@@ -45,17 +44,15 @@ Teknolojide kadınların gücüne inanıyor, öğrenmeyi ve paylaşmayı seviyor
 
 ---
 
-### 🚀 Proje Vitrini
-
-- 🎯 **GN/NN Akıllı Ağ Projesi**  
-ESP32 tabanlı kablosuz cihazlar arası haberleşme (ESP-NOW), GN geçiş algoritması, NVS saklama ve SoftAP ile Wi-Fi provisioning.
+### 🚀 Öne Çıkan Projeler
 
 - 💬 **Talep Yönetim Sistemi**  
-Modern, responsive, modüler yapıda PHP + MySQL + JS kullanılarak geliştirilen talep takibi ve mesajlaşma sistemi. Dinamik filtreler, kullanıcı yetkileri ve FR3 PDF çıktı desteği ile kurumsal ihtiyaçlara çözüm odaklı.
+  PHP + MySQL + JS kullanılarak geliştirilen, kullanıcıların taleplerini kolayca iletebildiği, yöneticilerin ise bunları yönetebildiği modüler sistem.  
+  Rol bazlı yetkilendirme, responsive arayüz, FR3 PDF çıktıları ve gelişmiş filtreleme özellikleri içerir.
 
 - 🛒 **E-Ticaret Web Uygulaması**  
-ASP.NET Core MVC, Identity, Entity Framework kullanılarak geliştirilen tam işlevli, kullanıcı girişli, admin panelli katmanlı mimaride e-ticaret uygulaması.  
-Kod mimarisi, test edilebilirlik ve performans dikkate alınarak yapılandırıldı.
+  ASP.NET Core MVC, Identity ve Entity Framework kullanılarak geliştirilen tam işlevli e-ticaret uygulaması.  
+  Kullanıcı yönetimi, ürün yönetimi, sipariş takibi gibi temel fonksiyonları içeren bu uygulama katmanlı mimari ile geliştirildi.
 
 ---
 
