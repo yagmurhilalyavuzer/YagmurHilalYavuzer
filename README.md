@@ -1,11 +1,13 @@
-<h1 align="center">👋 Merhaba! Ben Yağmur Hilal Yavuzer</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Ya%C4%9Fmur%20Hilal%20Yavuzer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirici%20%E2%80%A2%20G%C3%B6m%C3%BCl%C3%BC%20Sistemler%20%E2%80%A2%20S%C3%BCrekli%20%C3%96%C4%9Frenen&descAlignY=55&descSize=16" />
 
 <p align="center">
-  Yazılım Geliştirici • Gömülü Sistemler • Uygulamalı Proje Geliştirici • Sürekli Öğrenen
+  <a href="https://github.com/yagmurhilalyavuzer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici+%26+G%C3%B6m%C3%BCl%C3%BC+Sistemler;Backend+%7C+Frontend+%7C+IoT;S%C3%BCrekli+%C3%96%C4%9Frenen+Bir+M%C3%BChendis" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yagmurhilalyavuzer&style=flat&color=blue" alt="profil görüntülenme" />
+  <img src="https://komarev.com/ghpvc/?username=yagmurhilalyavuzer&style=flat&color=7aa2f7&label=Profil+G%C3%B6r%C3%BCnt%C3%BClenme" alt="profil görüntülenme" />
 </p>
 
 ---
@@ -19,7 +21,7 @@ Yazılım geliştirme, test, hata ayıklama, API kullanımı ve veri tabanı iş
 C# ve ASP.NET ile katmanlı mimaride e-ticaret uygulamaları geliştirdim.  
 Öğrenmeyi, paylaşmayı ve çözüm üretmeyi seven bir geliştiriciyim.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### 💡 Kullandığım Teknolojiler
 
@@ -54,7 +56,7 @@ C# ve ASP.NET ile katmanlı mimaride e-ticaret uygulamaları geliştirdim.
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi)
 ![PCB](https://img.shields.io/badge/-PCB%20Design-0f4c81?style=flat)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### 🚀 Öne Çıkan Projeler
 
@@ -78,7 +80,7 @@ C# ve ASP.NET ile katmanlı mimaride e-ticaret uygulamaları geliştirdim.
   ASP.NET Core MVC, Identity ve Entity Framework kullanılarak geliştirilen tam işlevli e-ticaret uygulaması.  
   Kullanıcı yönetimi, ürün yönetimi, sipariş takibi gibi temel fonksiyonları içeren bu uygulama katmanlı mimari ile geliştirildi.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### 📜 Sertifikalar & Eğitimler
 
@@ -89,7 +91,7 @@ C# ve ASP.NET ile katmanlı mimaride e-ticaret uygulamaları geliştirdim.
 - ✔️ Linux 101–201 Sertifikaları  
 - ✔️ 360 Saatlik Backend Geliştirici Eğitimi (.NET + EF + MVC)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### 📈 GitHub İstatistikleri
 
@@ -98,7 +100,23 @@ C# ve ASP.NET ile katmanlı mimaride e-ticaret uygulamaları geliştirdim.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagmurhilalyavuzer&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagmurhilalyavuzer&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yagmurhilalyavuzer&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yagmurhilalyavuzer&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yagmurhilalyavuzer/yagmurhilalyavuzer/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### 📫 Bana Ulaşın
 
@@ -108,3 +126,5 @@ C# ve ASP.NET ile katmanlı mimaride e-ticaret uygulamaları geliştirdim.
 ---
 
 > 🧠 “Hiçbir günüm birbiriyle aynı olmayacak. Her zaman – beceremesem, kimse bilmeyecek olsa, kıymeti olmasa, fark yaratmayacak olsa bile – içimden gelen doğruyu yapacağım.”
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" />
