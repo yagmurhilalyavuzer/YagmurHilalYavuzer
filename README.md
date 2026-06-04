@@ -123,7 +123,7 @@ C# ve ASP.NET ile katmanlı mimaride e-ticaret uygulamaları geliştirdim.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yağmurhilalyavuzer)  
 📧 yavuzeryagmurhilal@gmail.com
 
----
+----
 
 > 🧠 “Hiçbir günüm birbiriyle aynı olmayacak. Her zaman – beceremesem, kimse bilmeyecek olsa, kıymeti olmasa, fark yaratmayacak olsa bile – içimden gelen doğruyu yapacağım.”
 
